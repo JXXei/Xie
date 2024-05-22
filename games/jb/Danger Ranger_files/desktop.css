@@ -2,7 +2,7 @@ body {
 	font-size: 12px;
 	margin: 0px;
 	padding: 0px;
-	background-color: #000;
+	background-color: #de7825;
 }
 
 #container {
@@ -13,7 +13,7 @@ body {
 }
 
 .canvas {
-	background-color: #000000;
+	background-color: #2482e3;
 }
 
 #console {

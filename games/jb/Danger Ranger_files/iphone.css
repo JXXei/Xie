@@ -1,5 +1,5 @@
 body {
-	background-color: #000;
+	background-color: #de7825;
 	color: #222;
 	font-family: Helvetica, sans-serif;
 	font-size: 12px;
@@ -15,7 +15,7 @@ body {
 }
 
 .canvas {
-	background-color: #000000;
+	background-color: #de7825;
 }
 
 #console {

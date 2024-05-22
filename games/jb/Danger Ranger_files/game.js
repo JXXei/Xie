@@ -347,7 +347,7 @@ function setGame()
 	g.resetting = 30;
 	m.player.score = 0;
 	m.player.targetscore = 0;
-	m.player.lives = 3;
+	m.player.lives = 30;
 	g.level = -1;
 	g.lap = 1;
 	g.displaylevel = 1;
@@ -1523,7 +1523,7 @@ function drawSky()
 {
 	try
 	{
-		g.ctx.fillStyle = "#1B1A34";
+		g.ctx.fillStyle = "#2482e3";
 		g.ctx.fillRect(0,0,g.canvaswidth,315);
 		if (g.mode == "title")
 		{
