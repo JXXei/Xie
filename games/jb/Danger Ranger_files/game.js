@@ -1,11 +1,11 @@
 
 /*
-	Danger Ranger
+	哇哈哈AD钙大冒险
 	(C) Mark Wilcox 
 	More games at www.spacemonsters.co.uk
 */
 
-var GAMETITLE = "DANGERRANGER";
+var GAMETITLE = "哇哈哈AD钙大冒险";
 var SCOREFONT = "Arial"; //"Bowlby One SC";
 var IPHONEHACK = true;
 
@@ -347,7 +347,7 @@ function setGame()
 	g.resetting = 30;
 	m.player.score = 0;
 	m.player.targetscore = 0;
-	m.player.lives = 30;
+	m.player.lives = 100;
 	g.level = -1;
 	g.lap = 1;
 	g.displaylevel = 1;
